@@ -1,3 +1,5 @@
+![PersonalPhoto](https://github.com/KirillZakharoV24/Job-Resume/blob/main/PhotoResume.jpg)
+
 # Захаров Кирилл Александрович
 
 _Дата рождения:_ 24.10.1991
